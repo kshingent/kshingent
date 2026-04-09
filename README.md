@@ -9,7 +9,7 @@ I am a Research and Development Engineer specializing in **Machine Learning**, *
 * **AI & Machine Learning:** Anomaly detection, MLOps, and predictive modeling.
 * **Robotics & Control Theory:** Trajectory design, system optimization, and intelligent automation.
 * **Mathematics & Algorithms:** Development of robust frameworks for data analysis and signal processing.
-* **Background:** **Optical Physics** (Specialized in optical properties of materials at Kyoto University).
+* **Background:** **Optical Physics** (Specialized in solid state spectroscopy at Kyoto University).
 
 ### 🎓 Education
 * **Doctoral Program (Incomplete), Physics** | Kyoto University (April 2020 - March 2022)
