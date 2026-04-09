@@ -19,7 +19,7 @@ I am a Research and Development Engineer specializing in **Machine Learning**, *
 
 ### 💼 Experience
 * **R&D Engineer** | Omron (May 2026 - Present)
-* **R&D Engineer** | Nikon (Prior to April 2026)
+* **R&D Engineer** | Nikon (April 2022- April 2026)
     * Worked on machine learning applications and robotics.
 
 ### 🛠 Selected Projects
