@@ -23,7 +23,8 @@ I am a Research and Development Engineer specializing in **Machine Learning**, *
     * Worked on machine learning applications and robotics.
 
 ### 🛠 Selected Projects
-* **[peak-analyzer](https://github.com/kshingent/peak-analyzer)**: A framework for multidimensional peak detection.
+* **[peak-analyzer](https://github.com/kshingent/peak-analyzer)**: A framework for multidimensional peak detection and selection.
+* **[nustft](https://github.com/kshingent/nustft)**:
 * **[Chronodile](https://github.com/kshingent/Chronodile)**: (Here, add a brief description of the project).
 * **Target Trajectory Design**: Developing general prescriptions for single-axis stage control.
 
