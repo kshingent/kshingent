@@ -4,12 +4,12 @@ I am a Research and Development Engineer specializing in **Machine Learning**, *
 
 [GitHub](https://github.com/kshingent) / [LinkedIn](https://www.linkedin.com/in/%E8%80%95%E7%94%9F-%E6%AD%A6%E7%94%B0-626864237/) / [Email](mailto:kshingent@outlook.jp)
 
----
+### 🧬 Research Interests & Background
 
-### 🧬 Research Interests
-* **Machine Learning:** Anomaly detection for industrial equipment, MLOps.
-* **Robotics:** Trajectory design, transducer optimization, and control systems.
-* **Physics:** Optical properties of materials (Background).
+* **AI & Machine Learning:** Anomaly detection, MLOps, and predictive modeling.
+* **Robotics & Control Theory:** Trajectory design, system optimization, and intelligent automation.
+* **Mathematics & Algorithms:** Development of robust frameworks for data analysis and signal processing.
+* **Background:** **Optical Physics** (Specialized in optical properties of materials at Kyoto University).
 
 ### 🎓 Education
 * **Doctoral Program (Incomplete), Physics** | Kyoto University (April 2020 - March 2022)
