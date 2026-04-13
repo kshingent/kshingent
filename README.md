@@ -2,7 +2,7 @@
 
 I am a Research and Development Engineer specializing in **Machine Learning**, **Robotics**, and **Anomaly Detection**. Currently, I am focused on developing intelligent systems and automation frameworks.
 
-[GitHub](https://github.com/kshingent) / [LinkedIn](https://www.linkedin.com/in/%E8%80%95%E7%94%9F-%E6%AD%A6%E7%94%B0-626864237/) / [Email](mailto:kshingent@outlook.jp)
+[GitHub](https://github.com/kshingent) / [LinkedIn](https://www.linkedin.com/in/%E8%80%95%E7%94%9F-%E6%AD%A6%E7%94%B0-626864237/) / [Email](mailto:kshingent@outlook.jp) / [Google Scholor](https://scholar.google.com/citations?user=ZIIX-_0AAAAJ&hl=ja)
 
 ### 🧬 Research Interests & Background
 
