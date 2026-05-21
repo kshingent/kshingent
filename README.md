@@ -1,4 +1,4 @@
-# Kosei Takeda (武田 耕生)
+# Kosei S. Takeda (武田 耕生)
 
 I am a Research and Development Engineer specializing in **Machine Learning**, **Robotics**, and **Anomaly Detection**. Currently, I am focused on developing intelligent systems and automation frameworks.
 
